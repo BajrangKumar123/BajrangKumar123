@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Bajrang Kumar
 - 👀 I’m interested in developing and designing websites.
 - 🌱 I’m currently taking Training as MERN Stack Developer in Hyperlink Infosystem, Ahmedabad.
-- 💞️ I’m looking to collaborate on completion of Watching Hours of Youtube.
 - 📫 How to reach me ...
 - 📞 6203345535..or Whatsapp
 - 📨 bajrangk995@gmail.com
